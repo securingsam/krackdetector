@@ -1,3 +1,5 @@
+For more details see: https://krackattacks.securingsam.com
+
 ## KRACK Detector
 
 KRACK Detector is a Python script to detect possible [KRACK attacks](https://www.krackattacks.com) against client devices on your network.
