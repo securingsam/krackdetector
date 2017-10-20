@@ -1,3 +1,4 @@
+![KRACK](https://www.commitstrip.com/wp-content/uploads/2017/10/Strip-Faille-WP2-650-finalenglish.jpg)
 ## KRACK Detector
 
 KRACK Detector is a Python script to detect possible [KRACK attacks](https://www.krackattacks.com) against client devices on your network.
